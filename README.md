@@ -9,6 +9,8 @@ Welcome to the lecture notes collection! 🥳
   - [🧪 learning-based Image Synthesis](#-learning-based-image-synthesis)
 
 ---
+
 ## 🧪 learning-based Image Synthesis
 
 - [Lecture 12: Style and Content, Texture Synthesis](./notes/note12.md)
+- [Lecture 10 and 11: Conditional GANs, Image-to-Image Translation](./notes/note11.md)
