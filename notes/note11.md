@@ -2,7 +2,7 @@
 
 ## Unconditional vs. Conditional Models:
 
-**Difference**: As mentioned by Lecture 8, unconditional models learn to model p(x), while conditional models aim to model p(y|x), where x and y are conditional input information and output images. 
+**Difference**: As mentioned by Lecture 8, unconditional models learn to model p(x), while conditional models aim to model p(y\|x), where x and y are conditional input information and output images. 
 
 
 **Why do we care about conditional models?** While many unconditional models can synthesize realistic random samples during inference time, random sample generation is not helpful for many content creation applications where users want to create specific content according to their mental picture. For example, we often want to design a poster for a particular event rather than generating a random poster. If we enable a model to listen to the user-specified conditional input x, we can more expressively control the output image y=G(x). 
