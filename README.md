@@ -1,6 +1,12 @@
-# Generative-Image-Notes
+# 📚 Lecture Notes Collection
 
-will post more notes soon.
+Welcome to the lecture notes collection! 🥳
 
-Lecture notes:
-- [Lecture 12](./notes/note12.md)
+## 📝 Table of Contents
+
+1. [🧪 learning-based Image Synthesis](#Image_Synthesis)
+
+---
+## 🧪 learning-based Image Synthesis
+
+- [Lecture 12: Style and Content, Texture Synthesis](./notes/note12.md)
