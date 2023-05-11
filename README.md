@@ -4,7 +4,9 @@ Welcome to the lecture notes collection! 🥳
 
 ## 📝 Table of Contents
 
-1. [🧪 learning-based Image Synthesis](#Image_Synthesis)
+- [📚 Lecture Notes Collection](#-lecture-notes-collection)
+  - [📝 Table of Contents](#-table-of-contents)
+  - [🧪 learning-based Image Synthesis](#-learning-based-image-synthesis)
 
 ---
 ## 🧪 learning-based Image Synthesis
